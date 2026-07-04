@@ -268,15 +268,14 @@ function Hero() {
             Pune, Maharashtra, India
           </div>
           <h1 className="text-5xl font-semibold tracking-tight text-foreground md:text-6xl">
-            Building Production-Ready AI Applications
+            Karan Shihire
           </h1>
           <p className="mt-3 max-w-2xl text-lg font-medium text-foreground/80">
-            AI Engineer specializing in semantic search, computer vision, LLM-powered applications,
-            and scalable Python backends.
+            AI Engineer building semantic search, computer vision, and LLM-powered products.
           </p>
           <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground">
-            I build end-to-end AI products that combine machine learning, vector search, FastAPI,
-            and modern frontend technologies into practical, deployable applications.
+            I turn machine learning ideas into practical, deployable applications with Python,
+            FastAPI, vector search, and modern frontend tooling.
           </p>
           <div className="mt-8 flex flex-wrap gap-2.5">
             <a
