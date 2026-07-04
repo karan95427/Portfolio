@@ -1,0 +1,37 @@
+﻿<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="48" fill="#F8FAFC"/>
+  <rect x="92" y="138" width="840" height="748" rx="36" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="10"/>
+  <rect x="148" y="196" width="286" height="136" rx="24" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="6"/>
+  <text x="184" y="246" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Data Ingestion</text>
+  <text x="184" y="290" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="24">PDFs · Images · Events</text>
+
+  <rect x="590" y="196" width="286" height="136" rx="24" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="6"/>
+  <text x="626" y="246" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">FastAPI</text>
+  <text x="626" y="290" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="24">Service Layer</text>
+
+  <rect x="148" y="442" width="240" height="120" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="6"/>
+  <text x="184" y="490" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Embeddings</text>
+  <text x="184" y="528" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">Transformers</text>
+
+  <rect x="392" y="442" width="240" height="120" rx="22" fill="#ECFEFF" stroke="#A5F3FC" stroke-width="6"/>
+  <text x="430" y="490" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Vector Search</text>
+  <text x="430" y="528" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">FAISS</text>
+
+  <rect x="636" y="442" width="240" height="120" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="6"/>
+  <text x="672" y="490" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">LLM Layer</text>
+  <text x="672" y="528" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">Summaries · Ranking</text>
+
+  <rect x="218" y="674" width="588" height="122" rx="24" fill="#111827"/>
+  <text x="262" y="726" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">React Frontend</text>
+  <text x="262" y="768" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="24">Usable interfaces for deployable AI products</text>
+
+  <path d="M434 264H590" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <path d="M268 332V442" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <path d="M512 332V442" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <path d="M756 332V442" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <path d="M512 562V674" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 18"/>
+
+  <circle cx="268" cy="388" r="16" fill="#2563EB"/>
+  <circle cx="512" cy="388" r="16" fill="#14B8A6"/>
+  <circle cx="756" cy="388" r="16" fill="#2563EB"/>
+</svg>
